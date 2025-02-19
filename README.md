@@ -58,5 +58,5 @@ This project is open-source and available for anyone to use and modify.
 
 Author
 
-[MALYAVANTHAM GIRI] (https://github.com/GiriMalayavantham/ATM.git)
+[MALYAVANTHAM GIRI] (https://github.com/GiriMalayavantham/ATM_project.git)
 
